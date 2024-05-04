@@ -37,15 +37,15 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Copilot](https://www.midjourney.com/app/)
+- [Copilot](hhttps://copilot.microsoft.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Soundcloud](https://www.capcut.com/pt-br/)
+- [Soundcloud](https://soundcloud.com/discover)
 
 ## ✨ Como foi feito ?
 
 - Roteiro extraído de um artigo próprio
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar logo
+- Copilot Para gerar logo
 - Soundcloud para tratar aúdio e criar podcast
 
 ## 📚 Materiais
